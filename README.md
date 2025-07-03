@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! My name is Ruslan, and I’m an Android Developer.<br>💻 I’m passionate about building native Android apps using Kotlin and Java.<br>📱 I care about clean architecture, good UI/UX, and writing readable, maintainable code.<br>🚀 Always learning and growing in the field of mobile development.<br>🌱 Currently exploring Jetpack Compose and Clean Architecture.<br>📫 Contact me: @Quotmovet
+👋 Hi! My name is Ruslan.<br>💻 I’m passionate about building native Android apps using Kotlin and Java.<br>📱 I care about clean architecture, good UI/UX, and writing readable, maintainable code.<br>🚀 Always learning and growing in the field of mobile development.<br>🌱 Currently exploring Jetpack Compose and Clean Architecture.<br>📫 Contact me: @Quotmovet
 
 
 ## 🌐 Socials:
